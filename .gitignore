@@ -1,0 +1,18 @@
+# Maxfiy ma'lumotlar
+.env
+
+# Baza fayli (kerak bo'lsa)
+movies.db
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
